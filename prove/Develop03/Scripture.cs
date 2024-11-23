@@ -1,21 +1,3 @@
- // ------------------------------------------------------
-        /*
-         * -----------------------------------------------
-         *     Welcome to Scripture Memorizer Program!
-         * -----------------------------------------------
-         * This program is an aid to help people better 
-           memorize a scripture.
-         
-         * Author: Christopher Edeson
-
-         * Exceeding Requirements:
-         * Have the program work with a library of scriptures 
-           rather than a single one. Choose scriptures at 
-           random to present to the user.
-        */
-// -------------------------------------------------------
-
-
 public class Scripture
 {
     Reference _reference = new Reference("", 3, 3);
